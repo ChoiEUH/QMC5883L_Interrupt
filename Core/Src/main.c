@@ -32,7 +32,6 @@
 
 int16_t X_OUT,Y_OUT,Z_OUT;
 
-uint8_t avg = 0;
 
 char buf[50];
 
